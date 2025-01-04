@@ -1,0 +1,1 @@
+A Python implementation of the Capital Asset Pricing Model (CAPM) to analyze the relationship between systematic risk and expected returns. This project includes data fetching, risk-free rate integration, beta calculation, and visualization of results to understand asset performance against market benchmarks.
